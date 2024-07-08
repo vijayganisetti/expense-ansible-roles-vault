@@ -1,1 +1,3 @@
 BACKEND_URL: backend.vijayganisetti.online
+APP_LOCATION: /usr/share/nginx/html
+component: frontend
